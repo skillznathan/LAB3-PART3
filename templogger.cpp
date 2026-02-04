@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-#include <string> 
+#include <string>
 
 int main() {
     // 1. Declare an ofstream object to handle file writing.
